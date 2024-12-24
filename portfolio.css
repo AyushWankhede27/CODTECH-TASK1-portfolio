@@ -1,0 +1,47 @@
+.portfolio-bg {
+    background-image: url("https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/04/web-developer-portfolio.png");
+    background-size: cover;
+    height:100vh;
+    width: 100vw;
+}
+
+.ayush-bg {
+    width: 100px;
+    height: 50px;
+    background-color: transparent;
+}
+
+.home-heading {
+    font-family: Garamond;
+    text-align: center;
+    color: white;
+    font-size:40px;
+}
+
+.home-para {
+    font-family:Garamond;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.bi {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+
+}
+
+.skills {
+    color: white;
+    font-family: serif;
+    font-size: 80px;
+}
+
+p {
+    color: white;
+    margin: 15px;
+    font-size: 25px;
+    font-family: calluna;
+}
