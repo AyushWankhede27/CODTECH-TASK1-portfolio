@@ -1,10 +1,15 @@
 # CODTECH-TASK1-portfolio
  Name:Ayush Wankhede
+ 
 Company:CODTECH IT SOLUTION
 ID: CT08ERK
+
 Domain:Front End Web Development
+
 Duration:20th December 2024 to 20th January 2025
+
 Mentor:Neela Santhosh Kumar 
+
 
 
 Key Objectives:
